@@ -24,3 +24,18 @@ int[] ReverseArray(int[] array)
 }
 
 Console.WriteLine(String.Join("; ",ReverseArray(resultArray)));
+
+void BubbleSort(int[] array)
+{
+    int size = array.Length;
+    int last = size - 1;
+    for (int i = 0; i < size / 2; i++)
+    {
+        int temp = array[i];
+        array[i] = array[last - i];
+        array[last - i] = temp;
+    }
+    Console.WriteLine(String.Join("; ", array));
+}
+
+BubbleSort(resultArray);
