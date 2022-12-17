@@ -1,0 +1,15 @@
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.csproj.AssemblyReference.cache
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.AssemblyInfoInputs.cache
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.AssemblyInfo.cs
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.csproj.CoreCompileInputs.cache
+E:\Lesson6_C_Sharp\bin\Debug\net6.0\Lesson6_C_Sharp.exe
+E:\Lesson6_C_Sharp\bin\Debug\net6.0\Lesson6_C_Sharp.deps.json
+E:\Lesson6_C_Sharp\bin\Debug\net6.0\Lesson6_C_Sharp.runtimeconfig.json
+E:\Lesson6_C_Sharp\bin\Debug\net6.0\Lesson6_C_Sharp.dll
+E:\Lesson6_C_Sharp\bin\Debug\net6.0\Lesson6_C_Sharp.pdb
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.dll
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\refint\Lesson6_C_Sharp.dll
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.pdb
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\Lesson6_C_Sharp.genruntimeconfig.cache
+E:\Lesson6_C_Sharp\obj\Debug\net6.0\ref\Lesson6_C_Sharp.dll
